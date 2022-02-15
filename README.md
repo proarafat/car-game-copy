@@ -1,6 +1,7 @@
 # car-game-copy
 ## I make this project to see this https://youtu.be/Hi1Vezmuizo video with some new
-## import random,from time import sleep,import pygame
+# required to run py file 
+    pip install random , time , sleep , pygame
 
 
 
